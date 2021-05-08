@@ -1,6 +1,6 @@
 while True:
     try:
-        n = int(input('Número: '))
+        n = int(input('Númeroooo: '))
         break
     except:
         print('Inválido!')
